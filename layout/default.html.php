@@ -77,9 +77,7 @@
 				<a href="http://www.esteve-sa.fr/" id="esteve" target="_blank" class="brands">esteve</a>
 				<a href="http://www.aerem.fr/" id="aerem" target="_blank" class="brands">aerem</a>
 
-				<!--a href="javascript://" id="afaq" class="bottom_brands">afaq</a-->
 				<div id="afaq" class="bottom_brands">afaq</div>
-				<!--a href="javascript://" id="iso" class="bottom_brands">iso</a-->
 				<div id="iso" class="bottom_brands">iso</div>
 			</div>
 			<div class="clear"></div>
