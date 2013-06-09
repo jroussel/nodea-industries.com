@@ -1,0 +1,286 @@
+* html{padding:0 0 0 1px;}
+* +html{padding:0 0 0 1px;}
+body{
+	margin:0;
+	color:#3e3d40;
+	font:12px/20px Arial, Helvetica, sans-serif;
+	width:100%;
+	position: relative;
+	background : url("../images/body_bg.jpg") no-repeat scroll 50% 0 #FFFFFF;
+}
+
+img{border-style:none;}
+a{ 	text-decoration:none; color:#0071ae; }
+a:hover{text-decoration:underline;}
+
+input, textarea, select{
+	font:100% Arial, Helvetica, sans-serif;
+	vertical-align:middle;
+}
+
+form, fieldset{
+	margin:0;
+	padding:0;
+	border-style:none;
+}
+
+.clear{ clear:both; }
+
+#wrapper_holder{
+	width:961px;
+	margin:0 auto;
+	padding:0;
+}
+
+#header{
+	width:961px;
+	height: 158px;
+	margin: 0;
+	padding: 109px 0 0 0;
+	position: relative;
+	background : url("../images/header.png") no-repeat scroll 50% 0 transparent;
+}
+
+#logo{
+	display: block;
+	width: 183px;
+	height: 153px;
+	text-indent: -9999px;
+	margin: 0;
+	padding: 0;
+
+	position: absolute;
+	top: 57px;
+	left: 43px;
+}
+
+#trad{
+	position: absolute;
+	height: 15px;
+	width: 16px;
+
+	top: 36px;
+	right: 10px;
+}
+
+#trad a{
+	display: block;
+	width: 16px;
+	height: 15px;
+	text-indent: -9999px;
+	margin: 0;
+	padding: 0;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+
+}
+
+#trad a.active{
+	display: none;
+}
+
+#trad_fr{
+	background-image : url("../images/fr.png");
+}
+
+#trad_en{
+	background-image : url("../images/en.png");
+}
+
+#baseline{
+	font-size: 30px;
+	line-height: 30px;
+	color: #0071ae;
+	text-align: right;
+	margin: 0;
+	padding: 0 71px 0 0;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#cnt_t{
+	background : url("../images/cnt_t.png") repeat-y scroll 0 0 transparent;
+	width: 916px;
+	margin: 0;
+	padding: 0 23px 0 22px;
+}
+
+#cnt_t_l{
+	float: left;
+	margin: 0;
+	padding: 0;
+	font-size: 0px;
+	line-height: 0px;
+	height: 377px;
+	width: 227px;
+	background : url("../images/img_01.jpg") no-repeat scroll 0 0 transparent;
+}
+
+#cnt_t_r{
+	float: right;
+	width: 600px;
+	padding: 0 45px 0 0;
+	margin: 0;
+	color: #0071ae;
+}
+
+.intro{
+	text-transform: uppercase;
+	color: #0071ae;
+	word-spacing: 0.25em;
+}
+
+#sub_l{
+	width: 260px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+#sub_r{
+	width: 328px;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+#sub_r p{
+	margin-bottom: 0;
+}
+
+.quote{
+	color: #666666;
+	font-style: italic;
+}
+
+#cnt_b_r ul,
+#cnt_t_r ul{
+	margin: 0;
+	padding: 0;
+}
+
+#cnt_b_r ul li,
+#cnt_t_r ul li{
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 11px;
+	background : url("../images/bullet_01.png") no-repeat scroll 0 5px transparent;
+}
+
+
+#cnt_b{
+	background : url("../images/cnt_b.png") repeat-y scroll 0 0 transparent;
+	width: 916px;
+	margin: 0;
+	padding: 0 23px 0 22px;
+	height: 227px;
+
+	position: relative;
+}
+
+#cnt_b_l{
+	float: left;
+	margin: 0;
+	padding: 57px 26px 0 26px;
+
+	height: 150px;
+	width: 175px;
+}
+
+#cnt_b_l h2{
+	margin: 0;
+	padding: 0;
+	color: #0071ae;
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+#cnt_b_l a{
+	color: #666666;
+}
+
+#cnt_b_r{
+	float: right;
+	width: 530px;
+	padding: 45px 117px 0 0;
+	margin: 0;
+	color: #0071ae;
+}
+
+#cnt_b_r ul li{
+	margin-bottom: 30px;
+}
+
+.brands{
+	display: block;
+	width: 59px;
+	height: 27px;
+	text-indent: -9999px;
+	margin: 0;
+	padding: 0;
+
+	position: absolute;
+	top: 10px;
+
+	background-attachment: scroll;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+#sud_projet{
+	background-image : url("../images/sud_projet.png");
+	right: 52px;
+}
+
+#esteve{
+	background-image : url("../images/esteve.png");
+	right: 140px;
+}
+
+#aerem{
+	background-image : url("../images/aerem.png");
+	right: 228px;
+}
+
+.bottom_brands{
+	display: block;
+
+	height: 36px;
+	text-indent: -9999px;
+	margin: 0;
+	padding: 0;
+
+	position: absolute;
+	top: 146px;
+
+	background-attachment: scroll;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+#iso{
+	right: 64px;
+	width: 30px;
+	background-image : url("../images/iso.png");
+}
+
+#afaq{
+	right: 104px;
+	width: 37px;
+	background-image : url("../images/afaq.png");
+}
+
+#footer{
+	color: #ffffff;
+	font-size: 9px;
+	line-height: 30px;
+}
+
+#footer a{
+	color: #ffffff;
+}
