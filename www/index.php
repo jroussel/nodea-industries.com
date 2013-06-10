@@ -6,7 +6,7 @@ $email_mailto = '';
 for ($i=0; $i < strlen($email); $i++) { 
 	$email_mailto .= sprintf('%%%s', strtoupper(dechex(ord($email[$i]))));
 }
-$email_safe = preg_replace('/^([^@]+)@([^\.]+)\.(.+)$/i', '${1} (at) ${2} (dot) ${3}', $email);
+$email_safe = preg_replace('/^([^@]+)@([^\.]+)\.(.+)$/i', '${1} (at) ${2} (point) ${3}', $email);
 
 $locale_default = 'en';
 if (!empty($_SERVER['HTTP_ACCEPT_LANGUAGE']) && 0 === strpos($_SERVER['HTTP_ACCEPT_LANGUAGE'], 'fr')) {

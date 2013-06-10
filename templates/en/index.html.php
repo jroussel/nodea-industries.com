@@ -30,4 +30,4 @@
 </div>
 
 <div class="clear"></div>
-<p class="quote">« Our companies cumulate <strong>one century of experience</strong> and collaboration in the aeronautics field. They<br/> are recognized for their <strong>expertise</strong>, <strong>reliability</strong>, and <strong>reactivity</strong>. They build <strong>trusting relationships</strong> with their clients thanks to their commitment and service. »</p>
+<p class="quote">« Our companies cumulate <strong>one century of experience</strong> and collaboration in the aeronautics field. They<br/> are recognized for their <strong>expertise</strong>, <strong>reliability</strong>, and <strong>reactivity</strong>. They build <strong>trusting relationships</strong> with their customers thanks to their commitment and service. »</p>

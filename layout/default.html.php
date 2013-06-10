@@ -73,9 +73,9 @@
 					</li>
 				</ul>
 
-				<a href="http://www.sudprojet.com/" id="sud_projet" target="_blank" class="brands">sudprojet</a>
-				<a href="http://www.esteve-sa.fr/" id="esteve" target="_blank" class="brands">esteve</a>
-				<a href="http://www.aerem.fr/" id="aerem" target="_blank" class="brands">aerem</a>
+				<a href="http://www.sudprojet.com/" id="sud_projet" target="_blank" class="brands" title="Sud Projet">sudprojet</a>
+				<a href="http://www.esteve-sa.fr/" id="esteve" target="_blank" class="brands" title="Esteve">esteve</a>
+				<a href="http://www.aerem.fr/" id="aerem" target="_blank" class="brands" title="Aerem">aerem</a>
 
 				<div id="afaq" class="bottom_brands">afaq</div>
 				<div id="iso" class="bottom_brands">iso</div>
