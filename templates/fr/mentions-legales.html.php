@@ -2,7 +2,9 @@
 	<strong>Éditeur du site :</strong> NODEA Industries
 	<br/>ZA de Lauzard
 	<br/>82370 Labastide Saint Pierre, France
-<!-- 	<br/>SA Capital
+	<br /><br />Groupement d'Intérêt Économique 
+	<br />En cours d'immatriculation RCS de MONTAUBAN
+	<!--br/>SA Capital
 	<br/>RC Siret
 	<br/>APE -->
 </p>
